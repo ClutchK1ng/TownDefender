@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Bank
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Bank\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=newMoney
+comment2.target=boolean\ setMoney(int)
+comment3.params=soll
+comment3.target=boolean\ minus(int)
+comment4.params=haben
+comment4.target=boolean\ plus(int)
+comment5.params=
+comment5.target=int\ getMoney()
+numComments=6

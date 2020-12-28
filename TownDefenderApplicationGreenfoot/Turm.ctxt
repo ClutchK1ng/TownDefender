@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Turm
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Turm\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=int\ berechneSellPrize()
+comment3.params=
+comment3.target=double\ berechneSchaden()
+comment4.params=
+comment4.target=double\ sell()
+comment5.params=
+comment5.target=int\ getKills()
+comment6.params=bildquelle
+comment6.target=boolean\ setPicture(java.lang.String)
+comment7.params=grad
+comment7.target=boolean\ turnBoolean(int)
+comment8.params=
+comment8.target=boolean\ upgraden()
+numComments=9

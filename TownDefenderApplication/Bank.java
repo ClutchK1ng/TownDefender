@@ -3,6 +3,8 @@ public class Bank
 {
     private static int money;
     private static int roundmoney;
+    //testnigger
+    
     
     private static boolean setMoney(int newMoney)
     {
